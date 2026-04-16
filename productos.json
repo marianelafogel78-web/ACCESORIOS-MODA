@@ -428,7 +428,7 @@
     "nombre": "HEBILLAS X 5X3 ID60",
     "precio": 5700,
     "foto": "https://i.postimg.cc/HnMzskJf/IMG-20251115-175355.jpg",
-    "categoria": "",
+    "categoria": "HEBILLAS BLISTER",
     "suspendido": false
   },
   {
@@ -1492,7 +1492,7 @@
     "nombre": "HEBILLAS X 10 ID193",
     "precio": 1400,
     "foto": "https://i.postimg.cc/bYMy6WM0/IMG-20251115-175310.jpg",
-    "categoria": "",
+    "categoria": "HEBILLAS BLISTER",
     "suspendido": false
   },
   {
@@ -2128,51 +2128,11 @@
     "suspendido": false
   },
   {
-    "id": 273,
-    "nombre": "MOCHILA INF. VERDE MILITAR ID273",
-    "precio": 36300,
-    "foto": "https://i.postimg.cc/QCh3N4mr/mochila.png",
-    "categoria": "MOCHILAS Y RIÑOÑERAS",
-    "suspendido": false
-  },
-  {
-    "id": 274,
-    "nombre": "MOCHILA INF. NEGRA ID274",
-    "precio": 36300,
-    "foto": "https://i.postimg.cc/yYFH5SmW/mochi.jpg",
-    "categoria": "MOCHILAS Y RIÑOÑERAS",
-    "suspendido": false
-  },
-  {
-    "id": 275,
-    "nombre": "MOCHILA WONDER PORTA MATE/NOTEBOOK ID275",
-    "precio": 39950,
-    "foto": "https://i.postimg.cc/jdT9D3fN/rr.webp",
-    "categoria": "MOCHILAS Y RIÑOÑERAS",
-    "suspendido": false
-  },
-  {
     "id": 276,
     "nombre": "MOCHILA GO PORTA MATE/NOTEBOOK ID276",
     "precio": 39950,
     "foto": "https://i.postimg.cc/90krnwZb/kk.jpg",
-    "categoria": "MOCHILAS Y RIÑOÑERAS",
-    "suspendido": false
-  },
-  {
-    "id": 277,
-    "nombre": "MOCHILA INF. VERDE MILITAR ID277",
-    "precio": 45900,
-    "foto": "https://i.postimg.cc/dV2Sw230/e.webp",
-    "categoria": "MOCHILAS Y RIÑOÑERAS",
-    "suspendido": false
-  },
-  {
-    "id": 278,
-    "nombre": "MOCHILA TRENDY ID278",
-    "precio": 36900,
-    "foto": "https://i.postimg.cc/2SGMndYC/ff.webp",
-    "categoria": "MOCHILAS Y RIÑOÑERAS",
+    "categoria": "MOCHILAS/RIÑONERAS",
     "suspendido": false
   },
   {
@@ -2180,15 +2140,7 @@
     "nombre": "MOCHILA EVERLAST ID278",
     "precio": 29990,
     "foto": "https://i.postimg.cc/NjF7PRTr/mm.webp",
-    "categoria": "MOCHILAS Y RIÑOÑERAS",
-    "suspendido": false
-  },
-  {
-    "id": 280,
-    "nombre": "MOCHILA WILSON ID280",
-    "precio": 27900,
-    "foto": "https://i.postimg.cc/7h4jgK5w/mochiw.webp",
-    "categoria": "MOCHILAS Y RIÑOÑERAS",
+    "categoria": "MOCHILAS/RIÑONERAS",
     "suspendido": false
   },
   {
@@ -2196,103 +2148,7 @@
     "nombre": "MOCHILA WILSON ID281",
     "precio": 27900,
     "foto": "https://i.postimg.cc/W46GdScX/mo.webp",
-    "categoria": "MOCHILAS Y RIÑOÑERAS",
-    "suspendido": false
-  },
-  {
-    "id": 282,
-    "nombre": "MOCHILA LIVE LOVE PUFFER ID282",
-    "precio": 33600,
-    "foto": "https://i.postimg.cc/QdWQgh15/bv.png",
-    "categoria": "MOCHILAS Y RIÑOÑERAS",
-    "suspendido": false
-  },
-  {
-    "id": 283,
-    "nombre": "BOLSO SKORA PUFFER ID283",
-    "precio": 35200,
-    "foto": "https://i.postimg.cc/k5J5JyJ1/bolso.png",
-    "categoria": "CARTERAS",
-    "suspendido": false
-  },
-  {
-    "id": 284,
-    "nombre": "BANDOLERA SKORA VERDE MILITAR ID284",
-    "precio": 31900,
-    "foto": "https://i.postimg.cc/4xC5SYJb/tt.jpg",
-    "categoria": "CARTERAS",
-    "suspendido": false
-  },
-  {
-    "id": 285,
-    "nombre": "BANDOLERA SKORA MARRON ID285",
-    "precio": 31900,
-    "foto": "https://i.postimg.cc/J0L4Jjwj/ttt.jpg",
-    "categoria": "CARTERAS",
-    "suspendido": false
-  },
-  {
-    "id": 286,
-    "nombre": "BOLSO SKORA TEJIDO ID286",
-    "precio": 26900,
-    "foto": "https://i.postimg.cc/Fszwp791/D-NQ-NP-728424-MLA91614144630-092025-O.webp",
-    "categoria": "CARTERAS",
-    "suspendido": false
-  },
-  {
-    "id": 287,
-    "nombre": "BOLSO SKORA LONA ID287",
-    "precio": 17900,
-    "foto": "https://i.postimg.cc/Dy4Bmsfk/274-41073-original-3-ea8dd9af9e53d9c83817621991015062-480-0.webp",
-    "categoria": "CARTERAS",
-    "suspendido": false
-  },
-  {
-    "id": 288,
-    "nombre": "BOLSO PLAYERO TEJIDO ID288",
-    "precio": 16900,
-    "foto": "https://i.postimg.cc/nrDS8QM6/IMG-20251113-084904.jpg",
-    "categoria": "CARTERAS",
-    "suspendido": false
-  },
-  {
-    "id": 289,
-    "nombre": "CARTERA TRENDY TEJIDO ID289",
-    "precio": 23900,
-    "foto": "https://i.postimg.cc/pXPKMF9d/Captura-de-pantalla-2025-11-06-164826.png",
-    "categoria": "CARTERAS",
-    "suspendido": false
-  },
-  {
-    "id": 290,
-    "nombre": "MOCHILA TRENDY ID290",
-    "precio": 37900,
-    "foto": "https://i.postimg.cc/gjgjWr5h/30057.jpg",
-    "categoria": "MOCHILAS Y RIÑOÑERAS",
-    "suspendido": false
-  },
-  {
-    "id": 291,
-    "nombre": "MOCHILA TRENDY ID291",
-    "precio": 41900,
-    "foto": "https://i.postimg.cc/kXDXSJzk/Captura-de-pantalla-2025-11-06-152931.png",
-    "categoria": "MOCHILAS Y RIÑOÑERAS",
-    "suspendido": false
-  },
-  {
-    "id": 292,
-    "nombre": "MOCHILA TRENDY ID292",
-    "precio": 41900,
-    "foto": "https://i.postimg.cc/sfH33Fxq/mocchi.webp",
-    "categoria": "MOCHILAS Y RIÑOÑERAS",
-    "suspendido": false
-  },
-  {
-    "id": 293,
-    "nombre": "MOCHILA TRENDY ID293",
-    "precio": 41900,
-    "foto": "https://i.postimg.cc/qRMddQdL/images.jpg",
-    "categoria": "MOCHILAS Y RIÑOÑERAS",
+    "categoria": "MOCHILAS/RIÑONERAS",
     "suspendido": false
   },
   {
@@ -2300,23 +2156,7 @@
     "nombre": "RIÑONERA PUFFER ID294",
     "precio": 19900,
     "foto": "https://i.postimg.cc/K82TDgbt/rin.png",
-    "categoria": "MOCHILAS Y RIÑOÑERAS",
-    "suspendido": false
-  },
-  {
-    "id": 295,
-    "nombre": "BANDOLERA SKORA ID295",
-    "precio": 24900,
-    "foto": "https://i.postimg.cc/vTYjnmm9/Captura-de-pantalla-2025-11-06-172939.png",
-    "categoria": "CARTERAS",
-    "suspendido": false
-  },
-  {
-    "id": 296,
-    "nombre": "CARTERA TRENDY LONA ID296",
-    "precio": 29900,
-    "foto": "https://i.postimg.cc/XJVxHz0K/llll.webp",
-    "categoria": "CARTERAS",
+    "categoria": "MOCHILAS/RIÑONERAS",
     "suspendido": false
   },
   {
@@ -2324,7 +2164,7 @@
     "nombre": "BANDOLERA UNISEX LONA  (COLORES) ID297",
     "precio": 13990,
     "foto": "https://i.postimg.cc/4xf6ThSD/uyt.jpg",
-    "categoria": "MOCHILAS Y RIÑOÑERAS",
+    "categoria": "MOCHILAS/RIÑONERAS",
     "suspendido": false
   },
   {
@@ -2332,7 +2172,7 @@
     "nombre": "MOCHILA LONA ID298",
     "precio": 23000,
     "foto": "https://i.postimg.cc/yNw3WJL3/dfg.jpg",
-    "categoria": "MOCHILAS Y RIÑOÑERAS",
+    "categoria": "MOCHILAS/RIÑONERAS",
     "suspendido": false
   },
   {
@@ -2340,7 +2180,7 @@
     "nombre": "RIÑONERA SPORT IMP. ID299",
     "precio": 13500,
     "foto": "https://i.postimg.cc/sxX5FFXt/8464d29cc7df414caf8a85ffa4102588.jpg",
-    "categoria": "MOCHILAS Y RIÑOÑERAS",
+    "categoria": "MOCHILAS/RIÑONERAS",
     "suspendido": false
   },
   {
@@ -2348,7 +2188,7 @@
     "nombre": "RIÑONERAS STORT MUJER ID300",
     "precio": 8980,
     "foto": "https://i.postimg.cc/4xz7S4Pm/D-NQ-NP-755396-MLA80432143007-112024-O.webp",
-    "categoria": "MOCHILAS Y RIÑOÑERAS",
+    "categoria": "MOCHILAS/RIÑONERAS",
     "suspendido": false
   },
   {
@@ -2356,7 +2196,7 @@
     "nombre": "RIÑONERA SPORT GRANDE VARIOS COLORES  ID301",
     "precio": 6590,
     "foto": "https://i.postimg.cc/JnthMRNG/ffff.jpg",
-    "categoria": "MOCHILAS Y RIÑOÑERAS",
+    "categoria": "MOCHILAS/RIÑONERAS",
     "suspendido": false
   },
   {
@@ -2693,6 +2533,134 @@
     "precio": 1200,
     "foto": "https://i.postimg.cc/V6WcSs2C/LICATE.jpg",
     "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1776374725790,
+    "nombre": "ABANICOS TORNASOLADOS VARIEDAD DE COLORES",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/GtdK5y7x/abanicos.png",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1776375015152,
+    "nombre": "BANDOLERAS",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/zvGWhSPf/bando-h.png",
+    "categoria": "MOCHILAS/RIÑONERAS",
+    "suspendido": false
+  },
+  {
+    "id": 1776375090430,
+    "nombre": "BANDOLERAS",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/WbJzHHrb/bando-m.png",
+    "categoria": "MOCHILAS/RIÑONERAS",
+    "suspendido": false
+  },
+  {
+    "id": 1776375145197,
+    "nombre": "SET BROCHAS",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/CKwKdM2M/brocas.jpg",
+    "categoria": "MAQUILLAJES",
+    "suspendido": false
+  },
+  {
+    "id": 1776375186869,
+    "nombre": "BROCHES ID011",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/HWrbT35y/broche.jpg",
+    "categoria": "BROCHES MEDIANOS",
+    "suspendido": false
+  },
+  {
+    "id": 1776375306834,
+    "nombre": "BLISTER CHOKER",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/Vk8tB8Tw/choker.jpg",
+    "categoria": "COLLARES Y PULSERAS",
+    "suspendido": false
+  },
+  {
+    "id": 1776375379921,
+    "nombre": "COLITAS X4",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/G2WtLPwF/CO.png",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1776375425232,
+    "nombre": "COLITAS X4 ID212",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/xd7T5GCX/COL.png",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1776375501062,
+    "nombre": "UÑAS POSTIZAS INFANTIL ID99",
+    "precio": 1400,
+    "foto": "https://i.postimg.cc/xTYj610b/Whats-App-Image-2026-04-16-at-16-55-41-(2).jpg",
+    "categoria": "CUIDADO PERSONAL",
+    "suspendido": false
+  },
+  {
+    "id": 1776375580491,
+    "nombre": "UÑAS POSTIZAS INFANTIL ID98",
+    "precio": 1400,
+    "foto": "https://i.postimg.cc/HW0d81Qc/Whats-App-Image-2026-04-16-at-16-55-41.jpg",
+    "categoria": "CUIDADO PERSONAL",
+    "suspendido": false
+  },
+  {
+    "id": 1776375642757,
+    "nombre": "PEINE IND, TORNASOLADO",
+    "precio": 1740,
+    "foto": "https://i.postimg.cc/Dfc3ydTv/Whats-App-Image-2026-04-16-at-16-55-42.jpg",
+    "categoria": "CUIDADO PERSONAL",
+    "suspendido": false
+  },
+  {
+    "id": 1776375701994,
+    "nombre": "PEINE DE PUNTA X 24 UNID.",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/Xv5TM9Ld/Whats-App-Image-2026-04-16-at-16-55-43.jpg",
+    "categoria": "CUIDADO PERSONAL",
+    "suspendido": false
+  },
+  {
+    "id": 1776375751033,
+    "nombre": "BLISTER AROS C/BRILLO X 24 PARES",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/YqSZr5Rx/Whats-App-Image-2026-04-16-at-16-55-44-(1).jpg",
+    "categoria": "AROS BLISTER",
+    "suspendido": false
+  },
+  {
+    "id": 1776375805016,
+    "nombre": "AROS BLISTER X 24 PARES",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/nzkSZ2Dm/Whats-App-Image-2026-04-16-at-16-55-44.jpg",
+    "categoria": "AROS BLISTER",
+    "suspendido": false
+  },
+  {
+    "id": 1776375871839,
+    "nombre": "PESTAÑAS POSTIZAS X 5 PARES",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/6pvHTtZX/Whats-App-Image-2026-04-16-at-16-55-45.jpg",
+    "categoria": "CUIDADO PERSONAL",
+    "suspendido": false
+  },
+  {
+    "id": 1776375916735,
+    "nombre": "VINCHAS TELA ELASTICA BB ID52",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/tgbzTPyH/vincha-bb.png",
+    "categoria": "VINCHAS",
     "suspendido": false
   }
 ]
