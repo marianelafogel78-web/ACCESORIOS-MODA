@@ -1618,7 +1618,7 @@
   {
     "id": 209,
     "nombre": "PEINES X 1 ID209",
-    "precio": 1450,
+    "precio": 1740,
     "foto": "https://i.postimg.cc/28LBS4vT/IMG-20251115-181917.jpg",
     "categoria": "CUIDADO PERSONAL",
     "suspendido": false
@@ -1629,7 +1629,7 @@
     "precio": 2050,
     "foto": "https://i.postimg.cc/fytkkN35/IMG-20251115-182025.jpg",
     "categoria": "CUIDADO PERSONAL",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 211,
@@ -1637,7 +1637,7 @@
     "precio": 3350,
     "foto": "https://i.postimg.cc/qBzwVDBk/peine.png",
     "categoria": "CUIDADO PERSONAL",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 212,
@@ -2538,23 +2538,23 @@
   {
     "id": 1776374725790,
     "nombre": "ABANICOS TORNASOLADOS VARIEDAD DE COLORES",
-    "precio": 1,
+    "precio": 3000,
     "foto": "https://i.postimg.cc/GtdK5y7x/abanicos.png",
     "categoria": "VARIOS",
     "suspendido": false
   },
   {
     "id": 1776375015152,
-    "nombre": "BANDOLERAS",
-    "precio": 1,
+    "nombre": "BANDOLERAS ID01",
+    "precio": 13900,
     "foto": "https://i.postimg.cc/zvGWhSPf/bando-h.png",
     "categoria": "MOCHILAS/RIÑONERAS",
     "suspendido": false
   },
   {
     "id": 1776375090430,
-    "nombre": "BANDOLERAS",
-    "precio": 1,
+    "nombre": "BANDOLERAS MUJER ID02",
+    "precio": 13900,
     "foto": "https://i.postimg.cc/WbJzHHrb/bando-m.png",
     "categoria": "MOCHILAS/RIÑONERAS",
     "suspendido": false
@@ -2562,7 +2562,7 @@
   {
     "id": 1776375145197,
     "nombre": "SET BROCHAS",
-    "precio": 1,
+    "precio": 2900,
     "foto": "https://i.postimg.cc/CKwKdM2M/brocas.jpg",
     "categoria": "MAQUILLAJES",
     "suspendido": false
@@ -2578,15 +2578,15 @@
   {
     "id": 1776375306834,
     "nombre": "BLISTER CHOKER",
-    "precio": 1,
+    "precio": 3200,
     "foto": "https://i.postimg.cc/Vk8tB8Tw/choker.jpg",
     "categoria": "COLLARES Y PULSERAS",
     "suspendido": false
   },
   {
     "id": 1776375379921,
-    "nombre": "COLITAS X4",
-    "precio": 1,
+    "nombre": "COLITAS X4 ID211",
+    "precio": 1150,
     "foto": "https://i.postimg.cc/G2WtLPwF/CO.png",
     "categoria": "COLITAS",
     "suspendido": false
@@ -2594,7 +2594,7 @@
   {
     "id": 1776375425232,
     "nombre": "COLITAS X4 ID212",
-    "precio": 1,
+    "precio": 1450,
     "foto": "https://i.postimg.cc/xd7T5GCX/COL.png",
     "categoria": "COLITAS",
     "suspendido": false
@@ -2625,24 +2625,24 @@
   },
   {
     "id": 1776375701994,
-    "nombre": "PEINE DE PUNTA X 24 UNID.",
-    "precio": 1,
+    "nombre": "PEINE DE PUNTA X 10 UNID.",
+    "precio": 3500,
     "foto": "https://i.postimg.cc/Xv5TM9Ld/Whats-App-Image-2026-04-16-at-16-55-43.jpg",
     "categoria": "CUIDADO PERSONAL",
     "suspendido": false
   },
   {
     "id": 1776375751033,
-    "nombre": "BLISTER AROS C/BRILLO X 24 PARES",
-    "precio": 1,
+    "nombre": " AROS C/BRILLO X 12 PARES",
+    "precio": 10600,
     "foto": "https://i.postimg.cc/YqSZr5Rx/Whats-App-Image-2026-04-16-at-16-55-44-(1).jpg",
     "categoria": "AROS BLISTER",
     "suspendido": false
   },
   {
     "id": 1776375805016,
-    "nombre": "AROS BLISTER X 24 PARES",
-    "precio": 1,
+    "nombre": "AROS C/BRILLO ID010 X 24 PARES",
+    "precio": 12000,
     "foto": "https://i.postimg.cc/nzkSZ2Dm/Whats-App-Image-2026-04-16-at-16-55-44.jpg",
     "categoria": "AROS BLISTER",
     "suspendido": false
@@ -2658,7 +2658,7 @@
   {
     "id": 1776375916735,
     "nombre": "VINCHAS TELA ELASTICA BB ID52",
-    "precio": 1,
+    "precio": 2750,
     "foto": "https://i.postimg.cc/tgbzTPyH/vincha-bb.png",
     "categoria": "VINCHAS",
     "suspendido": false
