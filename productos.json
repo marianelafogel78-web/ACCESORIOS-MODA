@@ -56,22 +56,6 @@
     "suspendido": false
   },
   {
-    "id": 14,
-    "nombre": "VINCHA TELA ID14",
-    "precio": 1500,
-    "foto": "https://i.postimg.cc/HsjZ76Qx/IMG-20251108-104546.jpg",
-    "categoria": "VINCHAS",
-    "suspendido": false
-  },
-  {
-    "id": 15,
-    "nombre": "VINCHA ELASTICA TELA BEBE ID15",
-    "precio": 1590,
-    "foto": "https://i.postimg.cc/T1sc9Xry/IMG-20251108-104605.jpg",
-    "categoria": "VINCHAS",
-    "suspendido": false
-  },
-  {
     "id": 16,
     "nombre": "VINCHA  APLIQUES ACRILICO ID16",
     "precio": 2450,
@@ -352,14 +336,6 @@
     "suspendido": false
   },
   {
-    "id": 51,
-    "nombre": "HEBILLAS X 3 ID51",
-    "precio": 2200,
-    "foto": "https://i.postimg.cc/0QFzkQnc/IMG-20251115-180159.jpg",
-    "categoria": "HEBILLAS BLISTER",
-    "suspendido": false
-  },
-  {
     "id": 52,
     "nombre": "HEBLILLAS X 3 ID52",
     "precio": 2200,
@@ -432,22 +408,6 @@
     "suspendido": false
   },
   {
-    "id": 61,
-    "nombre": "HEBILLAS 5X3 ID61",
-    "precio": 3600,
-    "foto": "https://i.postimg.cc/DwxrhXC9/IMG-20251115-175439.jpg",
-    "categoria": "HEBILLAS BLISTER",
-    "suspendido": false
-  },
-  {
-    "id": 62,
-    "nombre": "HEBILLAS 5X3 ID62",
-    "precio": 3600,
-    "foto": "https://i.postimg.cc/T3NDFX1G/IMG-20251115-175425.jpg",
-    "categoria": "HEBILLAS BLISTER",
-    "suspendido": false
-  },
-  {
     "id": 63,
     "nombre": "INVISIBLES CON STRAS X 2 ID63",
     "precio": 1600,
@@ -508,14 +468,6 @@
     "nombre": "COLITAS X 5 PARES ID70",
     "precio": 6900,
     "foto": "https://i.postimg.cc/0yt9CkQf/IMG-20251108-125031.jpg",
-    "categoria": "COLITAS BLISTER",
-    "suspendido": false
-  },
-  {
-    "id": 71,
-    "nombre": "COLITAS X 5 PARES ID71",
-    "precio": 7200,
-    "foto": "https://i.postimg.cc/wvXP022p/IMG-20251108-124938.jpg",
     "categoria": "COLITAS BLISTER",
     "suspendido": false
   },
@@ -608,14 +560,6 @@
     "suspendido": false
   },
   {
-    "id": 83,
-    "nombre": "COLITAS PELUCHE UND. X 5 ID83",
-    "precio": 4500,
-    "foto": "https://i.postimg.cc/GpfRDX2v/IMG-20251108-123901.jpg",
-    "categoria": "COLITAS BLISTER",
-    "suspendido": false
-  },
-  {
     "id": 84,
     "nombre": "COLITAS X 5 IND. ID84",
     "precio": 3800,
@@ -632,26 +576,10 @@
     "suspendido": false
   },
   {
-    "id": 86,
-    "nombre": "COLITAS X 2 ID86",
-    "precio": 2000,
-    "foto": "https://i.postimg.cc/28Ws6ngJ/IMG-20251108-123306.jpg",
-    "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
     "id": 87,
     "nombre": "COLITAS X 3 ID87",
     "precio": 850,
     "foto": "https://i.postimg.cc/m23mJjv4/IMG-20251108-123046.jpg",
-    "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
-    "id": 88,
-    "nombre": "COLITAS X 3 ID88",
-    "precio": 850,
-    "foto": "https://i.postimg.cc/zXdgyRWn/IMG-20251108-123118.jpg",
     "categoria": "COLITAS",
     "suspendido": false
   },
@@ -684,14 +612,6 @@
     "nombre": "COLITAS X3 ID92",
     "precio": 1500,
     "foto": "https://i.postimg.cc/cJ11wDSn/IMG-20251108-121011.jpg",
-    "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
-    "id": 93,
-    "nombre": "COLITA IND. ID93",
-    "precio": 1100,
-    "foto": "https://i.postimg.cc/GtvnZYRd/IMG-20251108-120639.jpg",
     "categoria": "COLITAS",
     "suspendido": false
   },
@@ -1440,22 +1360,6 @@
     "suspendido": false
   },
   {
-    "id": 187,
-    "nombre": "COLITAS X 2 ID187",
-    "precio": 900,
-    "foto": "https://i.postimg.cc/dVsxGtB4/IMG-20251115-180600.jpg",
-    "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
-    "id": 188,
-    "nombre": "COLITAS X2 ID188",
-    "precio": 900,
-    "foto": "https://i.postimg.cc/Nf4NGvcB/IMG-20251115-181401.jpg",
-    "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
     "id": 189,
     "nombre": "COLITAS X 6 ID189",
     "precio": 590,
@@ -1493,14 +1397,6 @@
     "precio": 1400,
     "foto": "https://i.postimg.cc/bYMy6WM0/IMG-20251115-175310.jpg",
     "categoria": "HEBILLAS BLISTER",
-    "suspendido": false
-  },
-  {
-    "id": 194,
-    "nombre": "COLITAS X 5 PARES ID194",
-    "precio": 3900,
-    "foto": "https://i.postimg.cc/wTL1D9vH/IMG-20251108-125059.jpg",
-    "categoria": "COLITAS BLISTER",
     "suspendido": false
   },
   {
@@ -1578,7 +1474,7 @@
   {
     "id": 204,
     "nombre": "TERMINAL DE TRENZAS ID204",
-    "precio": 1,
+    "precio": 2800,
     "foto": "https://i.postimg.cc/5yqq7L3k/IMG-20251112-205227.jpg",
     "categoria": "COLITAS",
     "suspendido": false
@@ -1848,22 +1744,6 @@
     "suspendido": false
   },
   {
-    "id": 238,
-    "nombre": "BILLETERA INFLUENCER ID238",
-    "precio": 16900,
-    "foto": "https://i.postimg.cc/9Mgp0vXF/IMG-20251112-162944.jpg",
-    "categoria": "BILLETERAS",
-    "suspendido": false
-  },
-  {
-    "id": 239,
-    "nombre": "BILLETERA INFLUENCER ID239",
-    "precio": 16900,
-    "foto": "https://i.postimg.cc/T18cnnbg/IMG-20251112-163004.jpg",
-    "categoria": "BILLETERAS",
-    "suspendido": false
-  },
-  {
     "id": 240,
     "nombre": "BILLETERA GDE. 1 CIERRE ID240",
     "precio": 11200,
@@ -1888,14 +1768,6 @@
     "suspendido": false
   },
   {
-    "id": 243,
-    "nombre": "BILLETERA TRENDY 1 CIERRE ID243",
-    "precio": 10600,
-    "foto": "https://i.postimg.cc/LsLk2nwk/IMG-20251112-163424.jpg",
-    "categoria": "BILLETERAS",
-    "suspendido": false
-  },
-  {
     "id": 244,
     "nombre": "BILLETERA TRENDY 1 CIERRE ID244",
     "precio": 10600,
@@ -1904,42 +1776,10 @@
     "suspendido": false
   },
   {
-    "id": 245,
-    "nombre": "BILLETERA TRENDY 1 CIERRE ID245",
-    "precio": 10600,
-    "foto": "https://i.postimg.cc/HnXj7y0X/IMG-20251112-163343.jpg",
-    "categoria": "BILLETERAS",
-    "suspendido": false
-  },
-  {
     "id": 246,
     "nombre": "BILLETERA TRENDY 1 CIERRE ID246",
     "precio": 8400,
     "foto": "https://i.postimg.cc/QMvXkMd5/IMG-20251112-163332.jpg",
-    "categoria": "BILLETERAS",
-    "suspendido": false
-  },
-  {
-    "id": 247,
-    "nombre": "BILLETERA TRENDY CON BROCHE ID247",
-    "precio": 17950,
-    "foto": "https://i.postimg.cc/JzvwS2C1/IMG-20251112-163320.jpg",
-    "categoria": "BILLETERAS",
-    "suspendido": false
-  },
-  {
-    "id": 248,
-    "nombre": "BILLETERA TRENDY 2 CIERRES ID248",
-    "precio": 10400,
-    "foto": "https://i.postimg.cc/kGpwDLcx/IMG-20251112-163132.jpg",
-    "categoria": "BILLETERAS",
-    "suspendido": false
-  },
-  {
-    "id": 249,
-    "nombre": "BILLETERA TRENDY 1 CIERRE ID249",
-    "precio": 10600,
-    "foto": "https://i.postimg.cc/FKNbF94V/IMG-20251112-163057.jpg",
     "categoria": "BILLETERAS",
     "suspendido": false
   },
@@ -1992,14 +1832,6 @@
     "suspendido": false
   },
   {
-    "id": 256,
-    "nombre": "BILLETERA AMAYRA GDE. 1 CIERRE ID256",
-    "precio": 12400,
-    "foto": "https://i.postimg.cc/j5wSGF50/IMG-20251112-163248.jpg",
-    "categoria": "BILLETERAS",
-    "suspendido": false
-  },
-  {
     "id": 257,
     "nombre": "BILLETERA AMAYRA GDE. 1 CIERRE ID257",
     "precio": 11200,
@@ -2016,22 +1848,6 @@
     "suspendido": false
   },
   {
-    "id": 259,
-    "nombre": "BILLETERA AMAYRA GDE. 1 CIERRE ID259",
-    "precio": 12400,
-    "foto": "https://i.postimg.cc/x8Bx6qZJ/IMG-20251112-163105.jpg",
-    "categoria": "BILLETERAS",
-    "suspendido": false
-  },
-  {
-    "id": 260,
-    "nombre": "BILLETERA AMAYRA GDE. 1 CIERRE ID260",
-    "precio": 11200,
-    "foto": "https://i.postimg.cc/qBcxYbCW/IMG-20251112-163209.jpg",
-    "categoria": "BILLETERAS",
-    "suspendido": false
-  },
-  {
     "id": 261,
     "nombre": "BILLETERA AMAYRA GDE. 1 CIERRE ID261",
     "precio": 11200,
@@ -2044,14 +1860,6 @@
     "nombre": "BILLETERA AMAYRA MED. 1 CIERRE Y BROCHE ID262",
     "precio": 8900,
     "foto": "https://i.postimg.cc/L4q3497C/IMG-20251112-162501.jpg",
-    "categoria": "BILLETERAS",
-    "suspendido": false
-  },
-  {
-    "id": 263,
-    "nombre": "BILLETERA AMAYRA MED. 2 CIERRES ID263",
-    "precio": 9900,
-    "foto": "https://i.postimg.cc/vHKRgZHW/IMG-20251112-162333.jpg",
     "categoria": "BILLETERAS",
     "suspendido": false
   },
@@ -2092,14 +1900,6 @@
     "nombre": "BILLETERA INF MED. 1 CIERRE CIEGO/CROCHE ID268",
     "precio": 19950,
     "foto": "https://i.postimg.cc/v8q8hMZF/IMG-20251112-162530.jpg",
-    "categoria": "BILLETERAS",
-    "suspendido": false
-  },
-  {
-    "id": 269,
-    "nombre": "BILLETERA INF. MED. 2 CIERRES ID269",
-    "precio": 17900,
-    "foto": "https://i.postimg.cc/MpkS3GkN/IMG-20251112-162049.jpg",
     "categoria": "BILLETERAS",
     "suspendido": false
   },
@@ -2328,22 +2128,6 @@
     "suspendido": false
   },
   {
-    "id": 318,
-    "nombre": "COLITAS X 5 PARES ID318",
-    "precio": 4900,
-    "foto": "https://i.postimg.cc/B64hFgtv/colitamariposa.jpg",
-    "categoria": "COLITAS BLISTER",
-    "suspendido": false
-  },
-  {
-    "id": 319,
-    "nombre": "COLITAS X 5 PARES ID319",
-    "precio": 4900,
-    "foto": "https://i.postimg.cc/y6ffJ0K0/colotafrutilla.jpg",
-    "categoria": "COLITAS BLISTER",
-    "suspendido": false
-  },
-  {
     "id": 320,
     "nombre": "BROCHES DE METAL PEQ, X1 ID320",
     "precio": 900,
@@ -2373,22 +2157,6 @@
     "precio": 9990,
     "foto": "https://i.postimg.cc/bJrt4DBB/labialbrasilero.jpg",
     "categoria": "MAQUILLAJES",
-    "suspendido": false
-  },
-  {
-    "id": 324,
-    "nombre": "PULSERA ESCLAVA ID224",
-    "precio": 2000,
-    "foto": "https://i.postimg.cc/fRv5Nd80/esclavacorazon.jpg",
-    "categoria": "PULSERAS DE ACERO",
-    "suspendido": false
-  },
-  {
-    "id": 325,
-    "nombre": "PULSERA ESCLAVA ID225",
-    "precio": 2000,
-    "foto": "https://i.postimg.cc/VvMBH0S8/esclavaestrella.jpg",
-    "categoria": "PULSERAS DE ACERO",
     "suspendido": false
   },
   {
@@ -2570,7 +2338,7 @@
   {
     "id": 1776375186869,
     "nombre": "BROCHES ID011",
-    "precio": 1,
+    "precio": 1800,
     "foto": "https://i.postimg.cc/HWrbT35y/broche.jpg",
     "categoria": "BROCHES MEDIANOS",
     "suspendido": false
@@ -2650,7 +2418,7 @@
   {
     "id": 1776375871839,
     "nombre": "PESTAÑAS POSTIZAS X 5 PARES",
-    "precio": 1,
+    "precio": 3600,
     "foto": "https://i.postimg.cc/6pvHTtZX/Whats-App-Image-2026-04-16-at-16-55-45.jpg",
     "categoria": "CUIDADO PERSONAL",
     "suspendido": false
